@@ -1,0 +1,31 @@
+body {
+    font-family: "Oxygen", sans-serif;
+    background: #323232;
+    color: white;
+}
+
+.altfont {
+    font-family: "Oxygen", sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.thin {
+    font-weight: 300;
+}
+
+.vblue {
+    background: #0197F6;
+}
+
+.vblue-text {
+    color: #0197F6 !important;
+}
+
+a.brand-logo {
+    padding-left: 15px;
+}
+
+.container {
+    margin-top: 40px;
+}
